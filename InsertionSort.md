@@ -1,4 +1,4 @@
-# Selection Sort
+# Insertion Sort
 
 Selection Sort is a simple and intuitive sorting algorithm. It works by dividing the array into two parts: the sorted portion and the unsorted portion. The smallest element is repeatedly selected from the unsorted portion and moved to the sorted portion.
 
