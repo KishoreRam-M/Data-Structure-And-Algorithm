@@ -164,5 +164,4 @@ Index 2 -> 20
 
 ---
 
-### **Summary**
-Collisions are inevitable in hashing but can be efficiently managed using techniques like chaining, open addressing, and rehashing. By choosing the right hash function and collision handling strategy, you can achieve excellent performance for search, insert, and delete operations.
+
